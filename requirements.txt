@@ -1,0 +1,5 @@
+lxml
+pyparsing
+python-dateutil
+requests
+schematics
